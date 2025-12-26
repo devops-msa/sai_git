@@ -1,2 +1,3 @@
 First line of the story
 Added second line before staging
+Added thrid line on local GIT
